@@ -45,13 +45,13 @@ WordPress Designer and Digital Marketer focused on creating modern websites and 
 
 - 📧 Email: youremail@gmail.com
 - 🌐 Portfolio: https://yourportfolio.com
-- 📸 Instagram: https://instagram.com/yourusername
+- 📸 Instagram: https://instagram.com/k_a_v_i_n__12
 
 - ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kavintn12-Ai&label=Profile%20Views&color=0e75b6&style=flat)
 
-- GitHub: https://github.com/kavintn12-Ai
+GitHub: [kavintn12-Ai](https://github.com/kavintn12-Ai)
 
 ---
 ## 🐍 Contribution Snake
