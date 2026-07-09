@@ -10,31 +10,18 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 - 📍 Tirupur, Tamil Nadu, India
 
 ---
+## 🛠️ Skills & Tools
 
-## 🛠️ Skills
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Web Development
-- Elementor
-- Website Design
-- Website Management
-- WordPress
 
-### Digital Marketing
-- Search Engine Optimization (SEO)
-- Google Ads
-- Meta Ads
-- Social Media Marketing
-- Content Writing
-- Blog Writing
-
-### Tools
-- Google Analytics
-- GitHub
-- Canva
-- Google Search Console
-- Canva
-- Semrush
-- Google Keyword Planner
 
 ## 📊 GitHub Stats
 
