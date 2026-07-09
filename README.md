@@ -29,6 +29,10 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavintn12-Ai&layout=compact&theme=tokyonight)
 
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kavintn12-Ai&theme=tokyonight&margin-w=15&margin-h=15)
+
 ---
 
 ## 🔥 GitHub Streak
@@ -38,6 +42,14 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 ---
 
 ## 🌐 Connect with Me
+
+- 📧 Email: youremail@gmail.com
+- 🌐 Portfolio: https://yourportfolio.com
+- 📸 Instagram: https://instagram.com/yourusername
+
+- ## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=kavintn12-Ai&label=Profile%20Views&color=0e75b6&style=flat)
 
 - GitHub: https://github.com/kavintn12-Ai
 
