@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Web Developer and Digital Marketer with a strong interest in creating modern, responsive websites and helping businesses build their online presence through effective digital marketing strategies.
+Web Developer and Digital Marketer specializing in modern, responsive websites and digital marketing solutions that help businesses strengthen their online presence.
 
 - 💼 Web Developer
 - 📈 Digital Marketer
