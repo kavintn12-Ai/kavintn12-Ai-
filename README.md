@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Web Developer and Digital Marketer specializing in modern, responsive websites and digital marketing solutions that help businesses strengthen their online presence.
+WordPress Designer and Digital Marketer focused on creating modern websites and helping businesses improve their online presence through SEO and digital marketing.
 
 - 💼 Web Developer
 - 📈 Digital Marketer
