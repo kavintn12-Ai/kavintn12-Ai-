@@ -54,5 +54,8 @@ WordPress Designer and Digital Marketer focused on creating modern websites and 
 - GitHub: https://github.com/kavintn12-Ai
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/kavintn12-Ai/kavintn12-Ai/output/github-contribution-grid-snake.svg)
 
 ⭐ Thank you for visiting my profile!
