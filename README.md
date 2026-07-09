@@ -11,33 +11,16 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-### 🌐 Website Development
-- WordPress
-- Elementor
-- Website Design
-- Website Management
-
-### 📊 SEO & Analytics
-- Search Engine Optimization (SEO)
-- Google Search Console
-- Google Analytics 4 (GA4)
-- Google Tag Manager
-- Google Keyword Planner
-
-### 📢 Digital Marketing
-- Google Ads
-- Meta Ads Manager
-- Social Media Marketing
-- Content Writing
-- Blog Writing
-
-### 🎨 Design & Productivity
-- Canva
-- GitHub
-- VS Code
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 📊 GitHub Stats
