@@ -28,12 +28,12 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 - Blog Writing
 
 ### Tools
-- Git
+- Google Analytics
 - GitHub
 - Canva
-- VS Code
+- Google Search Console
 - Figma
-
+- Semrush
 ---
 
 ## 📊 GitHub Stats
