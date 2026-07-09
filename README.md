@@ -14,9 +14,9 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 ## 🛠️ Skills
 
 ### Web Development
-- HTML5
-- CSS3
-- JavaScript
+- Elementor
+- Website Design
+- Website Management
 - WordPress
 
 ### Digital Marketing
@@ -32,9 +32,9 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 - GitHub
 - Canva
 - Google Search Console
-- Figma
+- Canva
 - Semrush
----
+- Google Keyword Planner
 
 ## 📊 GitHub Stats
 
