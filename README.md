@@ -33,7 +33,7 @@ Web Developer and Digital Marketer specializing in modern, responsive websites a
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kavintn12-Ai&theme=tokyonight&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=kavintn12-Ai&theme=dark)
 
 ---
 
